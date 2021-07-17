@@ -1,0 +1,22 @@
+# Assignement_2_begninners
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Assignment 2</title>
+<link type="text/css" rel="stylesheet" href="style.css">
+</head>
+<style>
+h4 {style="font-size:40px;"}
+</style>
+<body>
+<h1 style="font-size:70px;style="text-align:center;">Assignment 2</h1>
+<h2 style="font-size:60px;">Team profile</h2>
+<h3 style="font-size:55px;style="text-align:center;"">Team Name: Beginners<h3>
+<h4> Valentine Parail:</h4>
+<p> </p>
+
+
+</body>
+
+
+</html>
